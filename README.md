@@ -6,9 +6,9 @@ The following tests will be done on github & git:
 
 #### GFM task list
 
-- [ ] Make 3 branches
-- [ ] Make 3 edits each
-- [ ] Make 3 commits each
+- [x] Make 3 branches
+- [x] Make 3 edits each
+- [] Make 3 commits each
     - [ ] NA
     - [ ] NA
 - [ ] then git push
