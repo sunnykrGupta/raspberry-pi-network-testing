@@ -7,12 +7,12 @@ The following tests will be done on github & git:
 #### GFM task list
 
 - [ ] Make 3 branches
+- [ ] Make 3 edits each
 - [ ] Make 3 commits each
-- [ ] GFM task list 3
-    - [ ] GFM task list 3-1
-    - [ ] GFM task list 3-2
-- [ ] GFM task list 4
+    - [ ] NA
+    - [ ] NA
+- [ ] then git push
     - [ ] GFM task list 4-1
-    - [ ] GFM task list 4-2
+    - [ ] This is the last push
 
 
