@@ -1,6 +1,9 @@
 ### raspberry-pi-network-testing
-#I'm facing issues with the default cni plugins on "ubuntu:20.04.2 LTS (Focal Fossa)". This repo stores backup of the default plugins.
-###################################################################################################
+
+I'm facing issues with the default cni plugins on `ubuntu:20.04.2 LTS (Focal Fossa)`. 
+This repo stores backup of the default plugins.
+
+---
 
 The following tests will be done on github & git:
 
@@ -14,8 +17,3 @@ The following tests will be done on github & git:
 - [ ] then git push
     - [ ] GFM task list 4-1
     - [ ] This is the last push
-
-
-#line added from cli in different branch.
-
-#This is the last commit of the day.
